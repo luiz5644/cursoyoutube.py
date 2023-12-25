@@ -1,6 +1,0 @@
-print('qual é o seu nome: ')
-nome = input()
-print ('qual é a sua idade: ')
-idade = input()
-print('qual é o seu peso: ')
-peso = input()
